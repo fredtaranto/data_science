@@ -9,7 +9,7 @@
 
 On my way as data scientist and learning every day... step by step. I combine analytical skills, ability to work in team environments, attention to details, and organization above all.
 
-My credentials include Infinitely Master Certificate of Data Analytics - 2019/2020 (mentor: [Jerry Strazzeri](https://www.linkedin.com/in/jerrystrazzeri/)
+My credentials include Infinitely Master Certificate of Data Analytics - 2019/2020 (mentor: [Jerry Strazzeri](https://www.linkedin.com/in/jerrystrazzeri/))
 
 As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
 
