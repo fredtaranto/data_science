@@ -22,6 +22,8 @@ I am currently in the course Data Science na Prática - 2020, methodology full h
 ## Projects:
 take a look at my projects:
 
+(its coming... don't blink)
+
 
 <!--
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy  -->
