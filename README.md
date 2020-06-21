@@ -9,7 +9,7 @@
 
 On my way as data scientist and learning every day... step by step. I combine analytical skills, ability to work in team environments, attention to details, and organization above all.
 
-## Credencials
+### Credencials:
 My credentials include ***Infinitely Master Certificate of Data Analytics - 2019 / 2020***, a complete valuable course and totally hands-on focused on the job market. (mentor: [Jerry Strazzeri](https://www.linkedin.com/in/jerrystrazzeri/)).<br> 
 I am currently in the course ***Data Science na Prática - 2020***, methodology full hands-on, portfolio and personal branding, works with practical projects and uses real-world data. (mentor: [Carlos Melo](https://github.com/carlosfab))
 
