@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-fredtaranto-red.svg)](https://www.linkedin.com/in/fredericofragata/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/fredtaranto/data_science/issues)
+[![author](https://img.shields.io/badge/author-fredtaranto-red.svg)](https://www.linkedin.com/in/fredericofragata) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/fredtaranto/data_science/issues)
 
 <p align="center">
   <img src="banner_bio.png" >
@@ -16,7 +16,7 @@ I am currently in the course ***Data Science na Prática - 2020***, methodology 
 **Background in:** SQL, Python, <!--Statistical inference, -->Spreadsheets, Dataviz, Dashboards, HTML.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/fredericofragata/)
+* [LinkedIn](https://www.linkedin.com/in/fredericofragata)
 * [Medium](https://medium.com/@fredtaranto)
 
 
