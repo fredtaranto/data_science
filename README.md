@@ -24,7 +24,7 @@ I am currently in the course ***Data Science na Prática - 2020***, methodology 
 ## Projects:
 take a look at my projects:
 
-(its coming... don't blink)
+* **Análise dos Dados do Airbnb para Florença:** https://bit.ly/3ioH0Zq
 
 
 <!--
