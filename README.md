@@ -5,7 +5,7 @@
 </p>
 
 # Frederico Fragata
-<sub>*Data Scientist* career loading...</sub>
+<sub>Web Analyst stepping forward to *Data Scientist* career</sub>
 
 On my way as data scientist and learning every day... step by step. I combine analytical skills, ability to work in team environments, attention to details, and organization above all.
 
