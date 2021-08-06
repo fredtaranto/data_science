@@ -12,7 +12,7 @@ On my way as data scientist and learning every day... step by step. I combine an
 ## Credencials:
 ***Infinitely Master Certificate of Data Analytics - 2019 / 2020***, a complete valuable course and totally hands-on focused on the job market. <br>(mentor: [Jerry Strazzeri](https://www.linkedin.com/in/jerrystrazzeri/)).
 
-***Data Science na Prática - 2020*** (*currently*), methodology full hands-on, portfolio and personal branding, works with practical projects and uses real-world data. <br>(mentor: [Carlos Melo](https://github.com/carlosfab))
+***Data Science na Prática - 2020 / 2021*** (*currently*), methodology full hands-on, portfolio and personal branding, works with practical projects and uses real-world data. <br>(mentor: [Carlos Melo](https://github.com/carlosfab))
 
 **Background in:** SQL, Python, <!--Statistical inference, -->Spreadsheets, Dataviz, Dashboards, HTML.
 
