@@ -5,9 +5,9 @@
 </p>
 
 # Frederico Fragata
-<sub>Web Analyst stepping forward to *Data Scientist* career</sub>
+<sub>Web Analyst stepping forward to *Data Analyst* career</sub>
 
-On my way as data scientist and learning every day... step by step. I combine analytical skills, ability to work in team environments, attention to details, and organization above all.
+On my way as data analyst and learning every day... step by step. I combine analytical skills, ability to work in team environments, attention to details, and organization above all.
 
 ## Credencials:
 ***Infinitely Master Certificate of Data Analytics - 2019 / 2020***, a complete valuable course and totally hands-on focused on the job market. <br>(mentor: [Jerry Strazzeri](https://www.linkedin.com/in/jerrystrazzeri/)).
